@@ -1,6 +1,6 @@
 QR code component built with HTML and CSS
 
-Links
+
 Live Site URL: (https://emilia-burza-qr-code-component.netlify.app/)
 
 
